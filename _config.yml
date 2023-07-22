@@ -1,2 +1,4 @@
 title: English Lang
 theme: jekyll-theme-midnight
+plugins:
+- jekyll-remote-theme
