@@ -56,7 +56,7 @@ I took the one less traveled by,
 And that has made all the difference.
 ```
 
-For other examples, see the **_Poe recursive !> algorithm_**, affectionally known as "Raven", and the **_Thomas /Dev/Null != dominion database algorithm_** with its sync|C incrementing loop.
+For other examples, see the **_Poe recursive !> algorithm_**, affectionally known as "Raven", and the **_Thomas /Dev/Null != dominion database algorithm_** with its sync\|C incrementing loop.
 
 - English uses whitespace and commas to delimit words, relying heavily on punctuation. 
 - Correct statements within a block are written in sentence case, except:
